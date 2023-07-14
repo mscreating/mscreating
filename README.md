@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <p align="center">
-  <img src="https://github.com/msawaguchi/msawaguchi/assets/28602785/1b4dea24-2ce6-4204-8b0b-95f0bde7638e" width="72%">
+  <img src="https://github.com/msawaguchi/msawaguchi/assets/28602785/1b4dea24-2ce6-4204-8b0b-95f0bde7638e" width="80%">
 </p>
 
 ---
